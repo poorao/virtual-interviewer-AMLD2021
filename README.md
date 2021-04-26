@@ -17,4 +17,20 @@ This will be a walk through of setting things up on AWS Sumerian to create a vir
 
 
 ## Slides
-Find the slides for the workshop [here]().
+Find the slides for the workshop [here](https://tinyurl.com/y6d3cptx).
+
+## Reference
+This repository borrows code from [transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) repo from [HuggingFace](https://huggingface.co/).
+
+## Cite
+If you use this in your research please consider citing
+```bash
+@article{sb2021improving,
+  title={Improving Asynchronous Interview Interaction with Follow-up Question Generation.},
+  author={S. B, Pooja Rao and Agnihotri, Manish and Jayagopi, Dinesh Babu},
+  journal={International Journal of Interactive Multimedia \& Artificial Intelligence},
+  volume={6},
+  number={5},
+  year={2021}
+}
+```

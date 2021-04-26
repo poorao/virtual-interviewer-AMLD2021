@@ -13,7 +13,7 @@ Follow along with the workshop using the colab notebook
 ## Part 2
 This will be a walk through of setting things up on AWS Sumerian to create a virtual agent with capabilities of interviewing and follow-up questioning. We will use the model trained in the Part 1.
 
-:arrow_forward: [Read more](part-2/README.md) 
+:arrow_forward: [Read more](part-2/) 
 
 
 ## Slides

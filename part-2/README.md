@@ -50,5 +50,15 @@ Replace the <your_server_domain_name> in the UserSpeech script in Sumerian scene
 You now run the scene and publish it. Have fun!
 
 
+## References
+1. [Sumerian Youtube Tutorials](https://www.youtube.com/watch?v=J3zsG0ejgO8&list=PLhr1KZpdzukd0g3qrxrCzwfZF97Ylprpy)
+2. [Speech and Host Component](https://docs.sumerian.amazonaws.com/tutorials/create/beginner/host-speech-component/)
+3. [SpeechRecognition Documentation](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
+4. [Sumerian Host Tutorials](https://docs.sumerian.amazonaws.com/courses/host-course//)
+5. [Sumerian Scene Creation](https://docs.sumerian.amazonaws.com/tutorials/create/getting-started/light-switch/)
+6. [Create Identity Pool](https://docs.aws.amazon.com/cognito/latest/developerguide/tutorial-create-identity-pool.html/)
+
+I would like to acknowledge the help from Manish, Siddharth, Nikhil and Nipun on the AWS Sumerian setup.
+
 
 

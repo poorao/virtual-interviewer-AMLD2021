@@ -20,7 +20,7 @@ This will be a walk through of setting things up on AWS Sumerian to create a vir
 Find the slides for the workshop [here](https://tinyurl.com/y6d3cptx).
 
 ## Reference
-This repository borrows code from [transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) repo from [HuggingFace](https://huggingface.co/).
+This repository borrows code from [transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) of [HuggingFace](https://huggingface.co/).
 
 ## Cite
 If you use this in your research please consider citing
